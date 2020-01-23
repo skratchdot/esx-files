@@ -1,0 +1,24 @@
+{
+  "name": "esx-files",
+  "version": "1.0.0",
+  "description": "a collection of esx related files",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/skratchdot/esx-files.git"
+  },
+  "author": "skratchdot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skratchdot/esx-files/issues"
+  },
+  "homepage": "https://github.com/skratchdot/esx-files#readme",
+  "dependencies": {
+    "marked": "^0.8.0",
+    "underscore": "^1.9.2"
+  }
+}

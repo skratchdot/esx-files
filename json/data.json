@@ -1,0 +1,2360 @@
+[
+  {
+    "root": "/",
+    "dir": "/esx",
+    "base": "Chronic-Interactive.esx",
+    "ext": ".esx",
+    "name": "Chronic-Interactive",
+    "file": "/esx/Chronic-Interactive.esx",
+    "group": "esx"
+  },
+  {
+    "root": "/",
+    "dir": "/esx",
+    "base": "ES1-Factory-Data.esx",
+    "ext": ".esx",
+    "name": "ES1-Factory-Data",
+    "file": "/esx/ES1-Factory-Data.esx",
+    "group": "esx"
+  },
+  {
+    "root": "/",
+    "dir": "/esx",
+    "base": "ES1-Sound-Designer.esx",
+    "ext": ".esx",
+    "name": "ES1-Sound-Designer",
+    "file": "/esx/ES1-Sound-Designer.esx",
+    "group": "esx"
+  },
+  {
+    "root": "/",
+    "dir": "/esx",
+    "base": "ESX-Factory-Data.esx",
+    "ext": ".esx",
+    "name": "ESX-Factory-Data",
+    "file": "/esx/ESX-Factory-Data.esx",
+    "group": "esx"
+  },
+  {
+    "root": "/",
+    "dir": "/esx",
+    "base": "Two-Lone-Swordsman.esx",
+    "ext": ".esx",
+    "name": "Two-Lone-Swordsman",
+    "file": "/esx/Two-Lone-Swordsman.esx",
+    "group": "esx"
+  },
+  {
+    "root": "/",
+    "dir": "/json",
+    "base": "data.json",
+    "ext": ".json",
+    "name": "data",
+    "file": "/json/data.json",
+    "group": "json"
+  },
+  {
+    "root": "/",
+    "dir": "/json",
+    "base": "dirs.json",
+    "ext": ".json",
+    "name": "dirs",
+    "file": "/json/dirs.json",
+    "group": "json"
+  },
+  {
+    "root": "/",
+    "dir": "/json",
+    "base": "groups.json",
+    "ext": ".json",
+    "name": "groups",
+    "file": "/json/groups.json",
+    "group": "json"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "BASS-0-MONO-045-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BASS-0-MONO-045-ESXextracted",
+    "file": "/wav/es1-factory-data/BASS-0-MONO-045-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "BASS-1-MONO-046-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BASS-1-MONO-046-ESXextracted",
+    "file": "/wav/es1-factory-data/BASS-1-MONO-046-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "BASS-2-MONO-047-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BASS-2-MONO-047-ESXextracted",
+    "file": "/wav/es1-factory-data/BASS-2-MONO-047-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "BASS-3-MONO-048-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BASS-3-MONO-048-ESXextracted",
+    "file": "/wav/es1-factory-data/BASS-3-MONO-048-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "BASS-4-MONO-049-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BASS-4-MONO-049-ESXextracted",
+    "file": "/wav/es1-factory-data/BASS-4-MONO-049-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "BD-0-MONO-000-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-0-MONO-000-ESXextracted",
+    "file": "/wav/es1-factory-data/BD-0-MONO-000-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "BD-1-MONO-001-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-1-MONO-001-ESXextracted",
+    "file": "/wav/es1-factory-data/BD-1-MONO-001-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "BD-2-MONO-002-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-2-MONO-002-ESXextracted",
+    "file": "/wav/es1-factory-data/BD-2-MONO-002-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "BD-3-MONO-003-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-3-MONO-003-ESXextracted",
+    "file": "/wav/es1-factory-data/BD-3-MONO-003-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "BD-4-MONO-004-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-4-MONO-004-ESXextracted",
+    "file": "/wav/es1-factory-data/BD-4-MONO-004-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "BD-5-MONO-005-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-5-MONO-005-ESXextracted",
+    "file": "/wav/es1-factory-data/BD-5-MONO-005-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "CYM-0-MONO-012-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "CYM-0-MONO-012-ESXextracted",
+    "file": "/wav/es1-factory-data/CYM-0-MONO-012-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "CYM-1-MONO-013-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "CYM-1-MONO-013-ESXextracted",
+    "file": "/wav/es1-factory-data/CYM-1-MONO-013-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "CYM-2-MONO-014-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "CYM-2-MONO-014-ESXextracted",
+    "file": "/wav/es1-factory-data/CYM-2-MONO-014-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "CYM-3-MONO-015-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "CYM-3-MONO-015-ESXextracted",
+    "file": "/wav/es1-factory-data/CYM-3-MONO-015-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "CYM-4-MONO-016-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "CYM-4-MONO-016-ESXextracted",
+    "file": "/wav/es1-factory-data/CYM-4-MONO-016-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "CYM-5-MONO-017-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "CYM-5-MONO-017-ESXextracted",
+    "file": "/wav/es1-factory-data/CYM-5-MONO-017-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "CYM-6-MONO-018-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "CYM-6-MONO-018-ESXextracted",
+    "file": "/wav/es1-factory-data/CYM-6-MONO-018-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "HIT-0-MONO-042-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "HIT-0-MONO-042-ESXextracted",
+    "file": "/wav/es1-factory-data/HIT-0-MONO-042-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "HIT-1-MONO-043-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "HIT-1-MONO-043-ESXextracted",
+    "file": "/wav/es1-factory-data/HIT-1-MONO-043-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "HIT-2-MONO-044-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "HIT-2-MONO-044-ESXextracted",
+    "file": "/wav/es1-factory-data/HIT-2-MONO-044-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "LOOP-0-MONO-050-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "LOOP-0-MONO-050-ESXextracted",
+    "file": "/wav/es1-factory-data/LOOP-0-MONO-050-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "LOOP-1-MONO-051-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "LOOP-1-MONO-051-ESXextracted",
+    "file": "/wav/es1-factory-data/LOOP-1-MONO-051-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "LOOP-2-MONO-052-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "LOOP-2-MONO-052-ESXextracted",
+    "file": "/wav/es1-factory-data/LOOP-2-MONO-052-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "LOOP-3-MONO-053-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "LOOP-3-MONO-053-ESXextracted",
+    "file": "/wav/es1-factory-data/LOOP-3-MONO-053-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "PERC-0-MONO-020-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "PERC-0-MONO-020-ESXextracted",
+    "file": "/wav/es1-factory-data/PERC-0-MONO-020-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "PERC-1-MONO-021-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "PERC-1-MONO-021-ESXextracted",
+    "file": "/wav/es1-factory-data/PERC-1-MONO-021-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "PERC-2-MONO-022-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "PERC-2-MONO-022-ESXextracted",
+    "file": "/wav/es1-factory-data/PERC-2-MONO-022-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "PERC-3-MONO-023-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "PERC-3-MONO-023-ESXextracted",
+    "file": "/wav/es1-factory-data/PERC-3-MONO-023-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "PERC-4-MONO-024-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "PERC-4-MONO-024-ESXextracted",
+    "file": "/wav/es1-factory-data/PERC-4-MONO-024-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "PERC-5-MONO-025-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "PERC-5-MONO-025-ESXextracted",
+    "file": "/wav/es1-factory-data/PERC-5-MONO-025-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "SD-0-MONO-006-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-0-MONO-006-ESXextracted",
+    "file": "/wav/es1-factory-data/SD-0-MONO-006-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "SD-1-MONO-007-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-1-MONO-007-ESXextracted",
+    "file": "/wav/es1-factory-data/SD-1-MONO-007-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "SD-2-MONO-008-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-2-MONO-008-ESXextracted",
+    "file": "/wav/es1-factory-data/SD-2-MONO-008-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "SD-3-MONO-009-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-3-MONO-009-ESXextracted",
+    "file": "/wav/es1-factory-data/SD-3-MONO-009-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "SD-4-MONO-010-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-4-MONO-010-ESXextracted",
+    "file": "/wav/es1-factory-data/SD-4-MONO-010-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "SD-5-MONO-011-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-5-MONO-011-ESXextracted",
+    "file": "/wav/es1-factory-data/SD-5-MONO-011-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "SE-0-MONO-033-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SE-0-MONO-033-ESXextracted",
+    "file": "/wav/es1-factory-data/SE-0-MONO-033-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "SE-1-MONO-034-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SE-1-MONO-034-ESXextracted",
+    "file": "/wav/es1-factory-data/SE-1-MONO-034-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "SE-2-MONO-035-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SE-2-MONO-035-ESXextracted",
+    "file": "/wav/es1-factory-data/SE-2-MONO-035-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "SE-3-MONO-036-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SE-3-MONO-036-ESXextracted",
+    "file": "/wav/es1-factory-data/SE-3-MONO-036-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "SE-4-MONO-037-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SE-4-MONO-037-ESXextracted",
+    "file": "/wav/es1-factory-data/SE-4-MONO-037-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "SE-5-MONO-038-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SE-5-MONO-038-ESXextracted",
+    "file": "/wav/es1-factory-data/SE-5-MONO-038-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "SE-6-MONO-039-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SE-6-MONO-039-ESXextracted",
+    "file": "/wav/es1-factory-data/SE-6-MONO-039-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "SE-7-MONO-040-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SE-7-MONO-040-ESXextracted",
+    "file": "/wav/es1-factory-data/SE-7-MONO-040-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "SE-8-MONO-041-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SE-8-MONO-041-ESXextracted",
+    "file": "/wav/es1-factory-data/SE-8-MONO-041-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "TOM-R&B-MONO-019-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "TOM-R&B-MONO-019-ESXextracted",
+    "file": "/wav/es1-factory-data/TOM-R&B-MONO-019-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "VOX-0-MONO-026-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "VOX-0-MONO-026-ESXextracted",
+    "file": "/wav/es1-factory-data/VOX-0-MONO-026-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "VOX-1-MONO-027-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "VOX-1-MONO-027-ESXextracted",
+    "file": "/wav/es1-factory-data/VOX-1-MONO-027-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "VOX-2-MONO-028-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "VOX-2-MONO-028-ESXextracted",
+    "file": "/wav/es1-factory-data/VOX-2-MONO-028-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "VOX-3-MONO-029-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "VOX-3-MONO-029-ESXextracted",
+    "file": "/wav/es1-factory-data/VOX-3-MONO-029-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "VOX-4-MONO-030-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "VOX-4-MONO-030-ESXextracted",
+    "file": "/wav/es1-factory-data/VOX-4-MONO-030-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "VOX-5-MONO-031-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "VOX-5-MONO-031-ESXextracted",
+    "file": "/wav/es1-factory-data/VOX-5-MONO-031-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/es1-factory-data",
+    "base": "VOX-6-MONO-032-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "VOX-6-MONO-032-ESXextracted",
+    "file": "/wav/es1-factory-data/VOX-6-MONO-032-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "5thStab -MONO-151-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "5thStab -MONO-151-ESXextracted",
+    "file": "/wav/esx-factory-data/5thStab -MONO-151-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Ac.Bass -MONO-138-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Ac.Bass -MONO-138-ESXextracted",
+    "file": "/wav/esx-factory-data/Ac.Bass -MONO-138-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Agogo   -MONO-089-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Agogo   -MONO-089-ESXextracted",
+    "file": "/wav/esx-factory-data/Agogo   -MONO-089-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-1    -MONO-000-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-1    -MONO-000-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-1    -MONO-000-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-10   -MONO-009-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-10   -MONO-009-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-10   -MONO-009-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-11   -MONO-010-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-11   -MONO-010-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-11   -MONO-010-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-12   -MONO-011-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-12   -MONO-011-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-12   -MONO-011-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-13   -MONO-012-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-13   -MONO-012-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-13   -MONO-012-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-14   -MONO-013-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-14   -MONO-013-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-14   -MONO-013-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-15   -MONO-014-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-15   -MONO-014-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-15   -MONO-014-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-16   -MONO-015-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-16   -MONO-015-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-16   -MONO-015-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-17   -MONO-016-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-17   -MONO-016-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-17   -MONO-016-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-18   -MONO-017-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-18   -MONO-017-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-18   -MONO-017-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-19   -MONO-018-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-19   -MONO-018-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-19   -MONO-018-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-2    -MONO-001-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-2    -MONO-001-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-2    -MONO-001-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-20   -MONO-019-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-20   -MONO-019-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-20   -MONO-019-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-21   -MONO-020-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-21   -MONO-020-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-21   -MONO-020-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-3    -MONO-002-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-3    -MONO-002-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-3    -MONO-002-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-4    -MONO-003-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-4    -MONO-003-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-4    -MONO-003-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-5    -MONO-004-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-5    -MONO-004-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-5    -MONO-004-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-6    -MONO-005-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-6    -MONO-005-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-6    -MONO-005-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-7    -MONO-006-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-7    -MONO-006-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-7    -MONO-006-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-8    -MONO-007-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-8    -MONO-007-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-8    -MONO-007-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BD-9    -MONO-008-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BD-9    -MONO-008-ESXextracted",
+    "file": "/wav/esx-factory-data/BD-9    -MONO-008-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BassLP  -MONO-195-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BassLP  -MONO-195-ESXextracted",
+    "file": "/wav/esx-factory-data/BassLP  -MONO-195-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BongoHi -MONO-080-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BongoHi -MONO-080-ESXextracted",
+    "file": "/wav/esx-factory-data/BongoHi -MONO-080-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BongoLo -MONO-081-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BongoLo -MONO-081-ESXextracted",
+    "file": "/wav/esx-factory-data/BongoLo -MONO-081-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "BoostSaw-MONO-143-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "BoostSaw-MONO-143-ESXextracted",
+    "file": "/wav/esx-factory-data/BoostSaw-MONO-143-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Clap-1  -MONO-048-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Clap-1  -MONO-048-ESXextracted",
+    "file": "/wav/esx-factory-data/Clap-1  -MONO-048-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Clap-2  -MONO-049-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Clap-2  -MONO-049-ESXextracted",
+    "file": "/wav/esx-factory-data/Clap-2  -MONO-049-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Clap-3  -MONO-050-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Clap-3  -MONO-050-ESXextracted",
+    "file": "/wav/esx-factory-data/Clap-3  -MONO-050-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Clap-4  -MONO-051-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Clap-4  -MONO-051-ESXextracted",
+    "file": "/wav/esx-factory-data/Clap-4  -MONO-051-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Clap-5  -MONO-052-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Clap-5  -MONO-052-ESXextracted",
+    "file": "/wav/esx-factory-data/Clap-5  -MONO-052-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Clap-6  -MONO-053-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Clap-6  -MONO-053-ESXextracted",
+    "file": "/wav/esx-factory-data/Clap-6  -MONO-053-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Clav    -MONO-130-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Clav    -MONO-130-ESXextracted",
+    "file": "/wav/esx-factory-data/Clav    -MONO-130-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "ClavLP-1-MONO-185-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "ClavLP-1-MONO-185-ESXextracted",
+    "file": "/wav/esx-factory-data/ClavLP-1-MONO-185-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "ClavLP-2-MONO-186-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "ClavLP-2-MONO-186-ESXextracted",
+    "file": "/wav/esx-factory-data/ClavLP-2-MONO-186-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Claves  -MONO-087-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Claves  -MONO-087-ESXextracted",
+    "file": "/wav/esx-factory-data/Claves  -MONO-087-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "CongaHi -MONO-083-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "CongaHi -MONO-083-ESXextracted",
+    "file": "/wav/esx-factory-data/CongaHi -MONO-083-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "CongaLP -MONO-170-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "CongaLP -MONO-170-ESXextracted",
+    "file": "/wav/esx-factory-data/CongaLP -MONO-170-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "CongaLo1-MONO-084-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "CongaLo1-MONO-084-ESXextracted",
+    "file": "/wav/esx-factory-data/CongaLo1-MONO-084-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "CongaLo2-MONO-085-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "CongaLo2-MONO-085-ESXextracted",
+    "file": "/wav/esx-factory-data/CongaLo2-MONO-085-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "CongaSyn-MONO-082-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "CongaSyn-MONO-082-ESXextracted",
+    "file": "/wav/esx-factory-data/CongaSyn-MONO-082-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "CowbelSy-MONO-088-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "CowbelSy-MONO-088-ESXextracted",
+    "file": "/wav/esx-factory-data/CowbelSy-MONO-088-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Crash-1 -MONO-073-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Crash-1 -MONO-073-ESXextracted",
+    "file": "/wav/esx-factory-data/Crash-1 -MONO-073-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Crash-2 -MONO-074-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Crash-2 -MONO-074-ESXextracted",
+    "file": "/wav/esx-factory-data/Crash-2 -MONO-074-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Djembe  -MONO-097-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Djembe  -MONO-097-ESXextracted",
+    "file": "/wav/esx-factory-data/Djembe  -MONO-097-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "DrumLP-1-MONO-165-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "DrumLP-1-MONO-165-ESXextracted",
+    "file": "/wav/esx-factory-data/DrumLP-1-MONO-165-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "DrumLP-2-MONO-166-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "DrumLP-2-MONO-166-ESXextracted",
+    "file": "/wav/esx-factory-data/DrumLP-2-MONO-166-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "DrumLP-3-MONO-167-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "DrumLP-3-MONO-167-ESXextracted",
+    "file": "/wav/esx-factory-data/DrumLP-3-MONO-167-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "DrumLP-4-MONO-168-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "DrumLP-4-MONO-168-ESXextracted",
+    "file": "/wav/esx-factory-data/DrumLP-4-MONO-168-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "DrumLP-5-MONO-169-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "DrumLP-5-MONO-169-ESXextracted",
+    "file": "/wav/esx-factory-data/DrumLP-5-MONO-169-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "EPChord -MONO-154-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "EPChord -MONO-154-ESXextracted",
+    "file": "/wav/esx-factory-data/EPChord -MONO-154-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "EPLP    -MONO-183-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "EPLP    -MONO-183-ESXextracted",
+    "file": "/wav/esx-factory-data/EPLP    -MONO-183-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "EPPhrase-MONO-184-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "EPPhrase-MONO-184-ESXextracted",
+    "file": "/wav/esx-factory-data/EPPhrase-MONO-184-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "F.Guitar-MONO-136-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "F.Guitar-MONO-136-ESXextracted",
+    "file": "/wav/esx-factory-data/F.Guitar-MONO-136-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "FR0     -MONO-196-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "FR0     -MONO-196-ESXextracted",
+    "file": "/wav/esx-factory-data/FR0     -MONO-196-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "FR1     -MONO-197-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "FR1     -MONO-197-ESXextracted",
+    "file": "/wav/esx-factory-data/FR1     -MONO-197-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "FR10    -MONO-203-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "FR10    -MONO-203-ESXextracted",
+    "file": "/wav/esx-factory-data/FR10    -MONO-203-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "FR8     -MONO-202-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "FR8     -MONO-202-ESXextracted",
+    "file": "/wav/esx-factory-data/FR8     -MONO-202-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "FingerBs-MONO-139-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "FingerBs-MONO-139-ESXextracted",
+    "file": "/wav/esx-factory-data/FingerBs-MONO-139-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Flute   -MONO-132-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Flute   -MONO-132-ESXextracted",
+    "file": "/wav/esx-factory-data/Flute   -MONO-132-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "GtrLP-1 -MONO-191-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "GtrLP-1 -MONO-191-ESXextracted",
+    "file": "/wav/esx-factory-data/GtrLP-1 -MONO-191-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "GtrLP-2 -MONO-192-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "GtrLP-2 -MONO-192-ESXextracted",
+    "file": "/wav/esx-factory-data/GtrLP-2 -MONO-192-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "GtrLP-3 -MONO-193-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "GtrLP-3 -MONO-193-ESXextracted",
+    "file": "/wav/esx-factory-data/GtrLP-3 -MONO-193-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "GtrLP-4 -MONO-194-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "GtrLP-4 -MONO-194-ESXextracted",
+    "file": "/wav/esx-factory-data/GtrLP-4 -MONO-194-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Guiro   -MONO-094-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Guiro   -MONO-094-ESXextracted",
+    "file": "/wav/esx-factory-data/Guiro   -MONO-094-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "HH-1C   -MONO-054-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "HH-1C   -MONO-054-ESXextracted",
+    "file": "/wav/esx-factory-data/HH-1C   -MONO-054-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "HH-1O   -MONO-055-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "HH-1O   -MONO-055-ESXextracted",
+    "file": "/wav/esx-factory-data/HH-1O   -MONO-055-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "HH-2C   -MONO-056-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "HH-2C   -MONO-056-ESXextracted",
+    "file": "/wav/esx-factory-data/HH-2C   -MONO-056-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "HH-2O   -MONO-057-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "HH-2O   -MONO-057-ESXextracted",
+    "file": "/wav/esx-factory-data/HH-2O   -MONO-057-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "HH-3C   -MONO-058-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "HH-3C   -MONO-058-ESXextracted",
+    "file": "/wav/esx-factory-data/HH-3C   -MONO-058-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "HH-3O   -MONO-059-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "HH-3O   -MONO-059-ESXextracted",
+    "file": "/wav/esx-factory-data/HH-3O   -MONO-059-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "HH-4C   -MONO-060-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "HH-4C   -MONO-060-ESXextracted",
+    "file": "/wav/esx-factory-data/HH-4C   -MONO-060-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "HH-4O   -MONO-061-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "HH-4O   -MONO-061-ESXextracted",
+    "file": "/wav/esx-factory-data/HH-4O   -MONO-061-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "HH-5C   -MONO-062-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "HH-5C   -MONO-062-ESXextracted",
+    "file": "/wav/esx-factory-data/HH-5C   -MONO-062-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "HH-5O   -MONO-063-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "HH-5O   -MONO-063-ESXextracted",
+    "file": "/wav/esx-factory-data/HH-5O   -MONO-063-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "HH-6C   -MONO-064-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "HH-6C   -MONO-064-ESXextracted",
+    "file": "/wav/esx-factory-data/HH-6C   -MONO-064-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "HH-6O   -MONO-065-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "HH-6O   -MONO-065-ESXextracted",
+    "file": "/wav/esx-factory-data/HH-6O   -MONO-065-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "HH-7C   -MONO-066-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "HH-7C   -MONO-066-ESXextracted",
+    "file": "/wav/esx-factory-data/HH-7C   -MONO-066-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "HH-7O   -MONO-067-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "HH-7O   -MONO-067-ESXextracted",
+    "file": "/wav/esx-factory-data/HH-7O   -MONO-067-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "IndiaLP -MONO-174-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "IndiaLP -MONO-174-ESXextracted",
+    "file": "/wav/esx-factory-data/IndiaLP -MONO-174-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "JunkPerc-MONO-092-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "JunkPerc-MONO-092-ESXextracted",
+    "file": "/wav/esx-factory-data/JunkPerc-MONO-092-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "LatinLP -MONO-171-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "LatinLP -MONO-171-ESXextracted",
+    "file": "/wav/esx-factory-data/LatinLP -MONO-171-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Lore    -MONO-153-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Lore    -MONO-153-ESXextracted",
+    "file": "/wav/esx-factory-data/Lore    -MONO-153-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "M1-Organ-MONO-131-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "M1-Organ-MONO-131-ESXextracted",
+    "file": "/wav/esx-factory-data/M1-Organ-MONO-131-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "M1PickBs-MONO-140-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "M1PickBs-MONO-140-ESXextracted",
+    "file": "/wav/esx-factory-data/M1PickBs-MONO-140-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "MuteGtr -MONO-137-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "MuteGtr -MONO-137-ESXextracted",
+    "file": "/wav/esx-factory-data/MuteGtr -MONO-137-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "NuBass  -MONO-149-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "NuBass  -MONO-149-ESXextracted",
+    "file": "/wav/esx-factory-data/NuBass  -MONO-149-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "OctBass -MONO-148-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "OctBass -MONO-148-ESXextracted",
+    "file": "/wav/esx-factory-data/OctBass -MONO-148-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "OrgGliss-MONO-155-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "OrgGliss-MONO-155-ESXextracted",
+    "file": "/wav/esx-factory-data/OrgGliss-MONO-155-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "OrgPhras-MONO-187-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "OrgPhras-MONO-187-ESXextracted",
+    "file": "/wav/esx-factory-data/OrgPhras-MONO-187-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "OrganLP -MONO-188-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "OrganLP -MONO-188-ESXextracted",
+    "file": "/wav/esx-factory-data/OrganLP -MONO-188-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "PercLP-1-MONO-175-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "PercLP-1-MONO-175-ESXextracted",
+    "file": "/wav/esx-factory-data/PercLP-1-MONO-175-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "PercLP-2-MONO-176-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "PercLP-2-MONO-176-ESXextracted",
+    "file": "/wav/esx-factory-data/PercLP-2-MONO-176-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "PercLP-3-MONO-177-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "PercLP-3-MONO-177-ESXextracted",
+    "file": "/wav/esx-factory-data/PercLP-3-MONO-177-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "PercLP-4-MONO-178-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "PercLP-4-MONO-178-ESXextracted",
+    "file": "/wav/esx-factory-data/PercLP-4-MONO-178-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "PercLP-5-MONO-179-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "PercLP-5-MONO-179-ESXextracted",
+    "file": "/wav/esx-factory-data/PercLP-5-MONO-179-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "PercLP-6-MONO-180-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "PercLP-6-MONO-180-ESXextracted",
+    "file": "/wav/esx-factory-data/PercLP-6-MONO-180-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "PercLP-7-MONO-181-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "PercLP-7-MONO-181-ESXextracted",
+    "file": "/wav/esx-factory-data/PercLP-7-MONO-181-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "PianoLP -MONO-182-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "PianoLP -MONO-182-ESXextracted",
+    "file": "/wav/esx-factory-data/PianoLP -MONO-182-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Pizzicat-MONO-135-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Pizzicat-MONO-135-ESXextracted",
+    "file": "/wav/esx-factory-data/Pizzicat-MONO-135-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "PowerChd-MONO-156-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "PowerChd-MONO-156-ESXextracted",
+    "file": "/wav/esx-factory-data/PowerChd-MONO-156-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Ride-1  -MONO-068-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Ride-1  -MONO-068-ESXextracted",
+    "file": "/wav/esx-factory-data/Ride-1  -MONO-068-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Ride-2  -MONO-069-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Ride-2  -MONO-069-ESXextracted",
+    "file": "/wav/esx-factory-data/Ride-2  -MONO-069-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Ride-3  -MONO-070-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Ride-3  -MONO-070-ESXextracted",
+    "file": "/wav/esx-factory-data/Ride-3  -MONO-070-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Ride-4  -MONO-071-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Ride-4  -MONO-071-ESXextracted",
+    "file": "/wav/esx-factory-data/Ride-4  -MONO-071-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Ride-5  -MONO-072-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Ride-5  -MONO-072-ESXextracted",
+    "file": "/wav/esx-factory-data/Ride-5  -MONO-072-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Rim-1   -MONO-045-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Rim-1   -MONO-045-ESXextracted",
+    "file": "/wav/esx-factory-data/Rim-1   -MONO-045-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Rim-2   -MONO-046-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Rim-2   -MONO-046-ESXextracted",
+    "file": "/wav/esx-factory-data/Rim-2   -MONO-046-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Rim-3   -MONO-047-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Rim-3   -MONO-047-ESXextracted",
+    "file": "/wav/esx-factory-data/Rim-3   -MONO-047-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "RingBass-MONO-150-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "RingBass-MONO-150-ESXextracted",
+    "file": "/wav/esx-factory-data/RingBass-MONO-150-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-1    -MONO-021-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-1    -MONO-021-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-1    -MONO-021-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-10   -MONO-030-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-10   -MONO-030-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-10   -MONO-030-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-11   -MONO-031-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-11   -MONO-031-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-11   -MONO-031-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-12   -MONO-032-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-12   -MONO-032-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-12   -MONO-032-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-13   -MONO-033-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-13   -MONO-033-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-13   -MONO-033-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-14   -MONO-034-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-14   -MONO-034-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-14   -MONO-034-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-15   -MONO-035-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-15   -MONO-035-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-15   -MONO-035-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-16   -MONO-036-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-16   -MONO-036-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-16   -MONO-036-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-17   -MONO-037-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-17   -MONO-037-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-17   -MONO-037-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-18   -MONO-038-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-18   -MONO-038-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-18   -MONO-038-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-19   -MONO-039-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-19   -MONO-039-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-19   -MONO-039-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-2    -MONO-022-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-2    -MONO-022-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-2    -MONO-022-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-20   -MONO-040-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-20   -MONO-040-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-20   -MONO-040-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-21   -MONO-041-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-21   -MONO-041-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-21   -MONO-041-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-22   -MONO-042-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-22   -MONO-042-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-22   -MONO-042-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-23   -MONO-043-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-23   -MONO-043-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-23   -MONO-043-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-24   -MONO-044-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-24   -MONO-044-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-24   -MONO-044-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-3    -MONO-023-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-3    -MONO-023-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-3    -MONO-023-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-4    -MONO-024-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-4    -MONO-024-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-4    -MONO-024-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-5    -MONO-025-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-5    -MONO-025-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-5    -MONO-025-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-6    -MONO-026-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-6    -MONO-026-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-6    -MONO-026-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-7    -MONO-027-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-7    -MONO-027-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-7    -MONO-027-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-8    -MONO-028-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-8    -MONO-028-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-8    -MONO-028-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SD-9    -MONO-029-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SD-9    -MONO-029-ESXextracted",
+    "file": "/wav/esx-factory-data/SD-9    -MONO-029-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SFX-1   -MONO-102-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SFX-1   -MONO-102-ESXextracted",
+    "file": "/wav/esx-factory-data/SFX-1   -MONO-102-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SFX-2   -MONO-103-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SFX-2   -MONO-103-ESXextracted",
+    "file": "/wav/esx-factory-data/SFX-2   -MONO-103-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SFX-3   -MONO-104-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SFX-3   -MONO-104-ESXextracted",
+    "file": "/wav/esx-factory-data/SFX-3   -MONO-104-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SFX-4   -MONO-105-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SFX-4   -MONO-105-ESXextracted",
+    "file": "/wav/esx-factory-data/SFX-4   -MONO-105-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SFX-5   -MONO-106-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SFX-5   -MONO-106-ESXextracted",
+    "file": "/wav/esx-factory-data/SFX-5   -MONO-106-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Saw     -MONO-142-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Saw     -MONO-142-ESXextracted",
+    "file": "/wav/esx-factory-data/Saw     -MONO-142-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Scratch1-MONO-100-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Scratch1-MONO-100-ESXextracted",
+    "file": "/wav/esx-factory-data/Scratch1-MONO-100-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Scratch2-MONO-101-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Scratch2-MONO-101-ESXextracted",
+    "file": "/wav/esx-factory-data/Scratch2-MONO-101-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Shaker  -MONO-093-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Shaker  -MONO-093-ESXextracted",
+    "file": "/wav/esx-factory-data/Shaker  -MONO-093-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SinKick -MONO-146-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SinKick -MONO-146-ESXextracted",
+    "file": "/wav/esx-factory-data/SinKick -MONO-146-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SlapBass-MONO-141-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SlapBass-MONO-141-ESXextracted",
+    "file": "/wav/esx-factory-data/SlapBass-MONO-141-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SplasCym-MONO-075-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SplasCym-MONO-075-ESXextracted",
+    "file": "/wav/esx-factory-data/SplasCym-MONO-075-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Square  -MONO-144-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Square  -MONO-144-ESXextracted",
+    "file": "/wav/esx-factory-data/Square  -MONO-144-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "StrHit-1-MONO-157-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "StrHit-1-MONO-157-ESXextracted",
+    "file": "/wav/esx-factory-data/StrHit-1-MONO-157-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "StrHit-2-MONO-158-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "StrHit-2-MONO-158-ESXextracted",
+    "file": "/wav/esx-factory-data/StrHit-2-MONO-158-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Strings -MONO-134-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Strings -MONO-134-ESXextracted",
+    "file": "/wav/esx-factory-data/Strings -MONO-134-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SynHit-1-MONO-159-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SynHit-1-MONO-159-ESXextracted",
+    "file": "/wav/esx-factory-data/SynHit-1-MONO-159-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SynHit-2-MONO-160-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SynHit-2-MONO-160-ESXextracted",
+    "file": "/wav/esx-factory-data/SynHit-2-MONO-160-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SynHit-3-MONO-161-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SynHit-3-MONO-161-ESXextracted",
+    "file": "/wav/esx-factory-data/SynHit-3-MONO-161-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SynHit-4-MONO-162-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SynHit-4-MONO-162-ESXextracted",
+    "file": "/wav/esx-factory-data/SynHit-4-MONO-162-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SynHit-5-MONO-163-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SynHit-5-MONO-163-ESXextracted",
+    "file": "/wav/esx-factory-data/SynHit-5-MONO-163-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SynHit-6-MONO-164-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SynHit-6-MONO-164-ESXextracted",
+    "file": "/wav/esx-factory-data/SynHit-6-MONO-164-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SynLP-1 -MONO-189-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SynLP-1 -MONO-189-ESXextracted",
+    "file": "/wav/esx-factory-data/SynLP-1 -MONO-189-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SynLP-2 -MONO-190-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SynLP-2 -MONO-190-ESXextracted",
+    "file": "/wav/esx-factory-data/SynLP-2 -MONO-190-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SynPerc -MONO-095-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SynPerc -MONO-095-ESXextracted",
+    "file": "/wav/esx-factory-data/SynPerc -MONO-095-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "SynSin  -MONO-147-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "SynSin  -MONO-147-ESXextracted",
+    "file": "/wav/esx-factory-data/SynSin  -MONO-147-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "TablaLP1-MONO-172-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "TablaLP1-MONO-172-ESXextracted",
+    "file": "/wav/esx-factory-data/TablaLP1-MONO-172-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "TablaLP2-MONO-173-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "TablaLP2-MONO-173-ESXextracted",
+    "file": "/wav/esx-factory-data/TablaLP2-MONO-173-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Tambouri-MONO-091-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Tambouri-MONO-091-ESXextracted",
+    "file": "/wav/esx-factory-data/Tambouri-MONO-091-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Timbales-MONO-086-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Timbales-MONO-086-ESXextracted",
+    "file": "/wav/esx-factory-data/Timbales-MONO-086-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Tom-1   -MONO-076-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Tom-1   -MONO-076-ESXextracted",
+    "file": "/wav/esx-factory-data/Tom-1   -MONO-076-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Tom-2   -MONO-077-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Tom-2   -MONO-077-ESXextracted",
+    "file": "/wav/esx-factory-data/Tom-2   -MONO-077-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Tom-3   -MONO-078-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Tom-3   -MONO-078-ESXextracted",
+    "file": "/wav/esx-factory-data/Tom-3   -MONO-078-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Tom-4   -MONO-079-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Tom-4   -MONO-079-ESXextracted",
+    "file": "/wav/esx-factory-data/Tom-4   -MONO-079-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Triangle-MONO-090-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Triangle-MONO-090-ESXextracted",
+    "file": "/wav/esx-factory-data/Triangle-MONO-090-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Triangle-MONO-145-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Triangle-MONO-145-ESXextracted",
+    "file": "/wav/esx-factory-data/Triangle-MONO-145-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Trumpet -MONO-133-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Trumpet -MONO-133-ESXextracted",
+    "file": "/wav/esx-factory-data/Trumpet -MONO-133-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Udu     -MONO-098-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Udu     -MONO-098-ESXextracted",
+    "file": "/wav/esx-factory-data/Udu     -MONO-098-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "UniSaw  -MONO-152-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "UniSaw  -MONO-152-ESXextracted",
+    "file": "/wav/esx-factory-data/UniSaw  -MONO-152-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-1 -MONO-107-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-1 -MONO-107-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-1 -MONO-107-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-10-MONO-116-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-10-MONO-116-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-10-MONO-116-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-11-MONO-117-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-11-MONO-117-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-11-MONO-117-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-12-MONO-118-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-12-MONO-118-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-12-MONO-118-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-13-MONO-119-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-13-MONO-119-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-13-MONO-119-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-14-MONO-120-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-14-MONO-120-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-14-MONO-120-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-15-MONO-121-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-15-MONO-121-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-15-MONO-121-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-16-MONO-122-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-16-MONO-122-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-16-MONO-122-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-17-MONO-123-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-17-MONO-123-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-17-MONO-123-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-18-MONO-124-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-18-MONO-124-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-18-MONO-124-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-19-MONO-125-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-19-MONO-125-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-19-MONO-125-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-2 -MONO-108-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-2 -MONO-108-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-2 -MONO-108-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-20-MONO-126-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-20-MONO-126-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-20-MONO-126-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-21-MONO-127-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-21-MONO-127-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-21-MONO-127-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-22-MONO-128-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-22-MONO-128-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-22-MONO-128-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-23-MONO-129-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-23-MONO-129-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-23-MONO-129-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-3 -MONO-109-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-3 -MONO-109-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-3 -MONO-109-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-4 -MONO-110-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-4 -MONO-110-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-4 -MONO-110-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-5 -MONO-111-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-5 -MONO-111-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-5 -MONO-111-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-6 -MONO-112-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-6 -MONO-112-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-6 -MONO-112-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-7 -MONO-113-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-7 -MONO-113-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-7 -MONO-113-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-8 -MONO-114-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-8 -MONO-114-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-8 -MONO-114-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Voice-9 -MONO-115-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Voice-9 -MONO-115-ESXextracted",
+    "file": "/wav/esx-factory-data/Voice-9 -MONO-115-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "WBl-DDD -MONO-096-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "WBl-DDD -MONO-096-ESXextracted",
+    "file": "/wav/esx-factory-data/WBl-DDD -MONO-096-ESXextracted.wav",
+    "group": "wav"
+  },
+  {
+    "root": "/",
+    "dir": "/wav/esx-factory-data",
+    "base": "Zap     -MONO-099-ESXextracted.wav",
+    "ext": ".wav",
+    "name": "Zap     -MONO-099-ESXextracted",
+    "file": "/wav/esx-factory-data/Zap     -MONO-099-ESXextracted.wav",
+    "group": "wav"
+  }
+]
