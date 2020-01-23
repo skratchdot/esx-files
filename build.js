@@ -57,7 +57,7 @@ Object.keys(byDir).forEach(function(dir) {
   byDir[dir].forEach(function(obj) {
     var b = obj.base;
     var f = obj.file;
-    readme += `\n- [${b}](https://projects.skratchdot.com/esx-files${f})`;
+    readme += `\n- [${b}](https://projects.skratchdot.com/esx-files${f.replace(/ /gi, '%20')})`;
   });
 });
 
