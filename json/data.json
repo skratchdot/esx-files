@@ -2,6 +2,15 @@
   {
     "root": "/",
     "dir": "/esx",
+    "base": "Blank.esx",
+    "ext": ".esx",
+    "name": "Blank",
+    "file": "/esx/Blank.esx",
+    "group": "esx"
+  },
+  {
+    "root": "/",
+    "dir": "/esx",
     "base": "Chronic-Interactive.esx",
     "ext": ".esx",
     "name": "Chronic-Interactive",

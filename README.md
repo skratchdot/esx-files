@@ -13,6 +13,7 @@ a collection of esx related files
 
 ### Directory: /esx
 
+- [Blank.esx](https://projects.skratchdot.com/esx-files/esx/Blank.esx)
 - [Chronic-Interactive.esx](https://projects.skratchdot.com/esx-files/esx/Chronic-Interactive.esx)
 - [ES1-Factory-Data.esx](https://projects.skratchdot.com/esx-files/esx/ES1-Factory-Data.esx)
 - [ES1-Sound-Designer.esx](https://projects.skratchdot.com/esx-files/esx/ES1-Sound-Designer.esx)
