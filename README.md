@@ -11,6 +11,20 @@ a collection of esx related files
 
 ## Files
 
+### Directory: /emx
+
+- [CLEAN.EMX](https://projects.skratchdot.com/esx-files/emx/CLEAN.EMX)
+- [EMX1SD.EMX](https://projects.skratchdot.com/esx-files/emx/EMX1SD.EMX)
+- [SM_FACT.EMX](https://projects.skratchdot.com/esx-files/emx/SM_FACT.EMX)
+- [UK_BASS.EMX](https://projects.skratchdot.com/esx-files/emx/UK_BASS.EMX)
+- [WRITERLY.EMX](https://projects.skratchdot.com/esx-files/emx/WRITERLY.EMX)
+
+### Directory: /es1
+
+- [blank.ES1](https://projects.skratchdot.com/esx-files/es1/blank.ES1)
+- [factory-mk1.ES1](https://projects.skratchdot.com/esx-files/es1/factory-mk1.ES1)
+- [factory-mk2.ES1](https://projects.skratchdot.com/esx-files/es1/factory-mk2.ES1)
+
 ### Directory: /esx
 
 - [Blank.esx](https://projects.skratchdot.com/esx-files/esx/Blank.esx)

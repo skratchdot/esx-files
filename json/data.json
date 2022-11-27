@@ -1,6 +1,78 @@
 [
   {
     "root": "/",
+    "dir": "/emx",
+    "base": "CLEAN.EMX",
+    "ext": ".EMX",
+    "name": "CLEAN",
+    "file": "/emx/CLEAN.EMX",
+    "group": "emx"
+  },
+  {
+    "root": "/",
+    "dir": "/emx",
+    "base": "EMX1SD.EMX",
+    "ext": ".EMX",
+    "name": "EMX1SD",
+    "file": "/emx/EMX1SD.EMX",
+    "group": "emx"
+  },
+  {
+    "root": "/",
+    "dir": "/emx",
+    "base": "SM_FACT.EMX",
+    "ext": ".EMX",
+    "name": "SM_FACT",
+    "file": "/emx/SM_FACT.EMX",
+    "group": "emx"
+  },
+  {
+    "root": "/",
+    "dir": "/emx",
+    "base": "UK_BASS.EMX",
+    "ext": ".EMX",
+    "name": "UK_BASS",
+    "file": "/emx/UK_BASS.EMX",
+    "group": "emx"
+  },
+  {
+    "root": "/",
+    "dir": "/emx",
+    "base": "WRITERLY.EMX",
+    "ext": ".EMX",
+    "name": "WRITERLY",
+    "file": "/emx/WRITERLY.EMX",
+    "group": "emx"
+  },
+  {
+    "root": "/",
+    "dir": "/es1",
+    "base": "blank.ES1",
+    "ext": ".ES1",
+    "name": "blank",
+    "file": "/es1/blank.ES1",
+    "group": "es1"
+  },
+  {
+    "root": "/",
+    "dir": "/es1",
+    "base": "factory-mk1.ES1",
+    "ext": ".ES1",
+    "name": "factory-mk1",
+    "file": "/es1/factory-mk1.ES1",
+    "group": "es1"
+  },
+  {
+    "root": "/",
+    "dir": "/es1",
+    "base": "factory-mk2.ES1",
+    "ext": ".ES1",
+    "name": "factory-mk2",
+    "file": "/es1/factory-mk2.ES1",
+    "group": "es1"
+  },
+  {
+    "root": "/",
     "dir": "/esx",
     "base": "Blank.esx",
     "ext": ".esx",
