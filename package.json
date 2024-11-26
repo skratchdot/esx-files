@@ -19,6 +19,6 @@
   "homepage": "https://github.com/skratchdot/esx-files#readme",
   "dependencies": {
     "marked": "^0.8.0",
-    "underscore": "^1.9.2"
+    "underscore": "^1.12.1"
   }
 }
